@@ -119,4 +119,4 @@ This project is for educational purposes.
 
 ## Author 👨‍💻
 
-Developed by Hafeez.
+Developed by Hussain Mansoor
